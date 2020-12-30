@@ -1,0 +1,40 @@
+Kavya ksebastian3@wisc.edu
+
+Enter the name of the file: 
+jedi.txt
+Error encountered1: jedi.txt (The system cannot find the file specified)
+Enter the name of the file: 
+input.txt
+Welcome to SEBASTIAN'S CASINO!
+The game of Black Jack!
+
+Enter your name: 
+BabyYoda
+
+BabyYoda :
+4 of Clubs	J of Clubs	Total: 14
+If you want to continue, enter (y/Y): 
+y
+4 of Clubs	J of Clubs	J of Hearts	Total: 24
+BUSTED!
+Dealer:
+5 of Clubs	A of Diamonds	Q of Hearts	2 of Hearts	Total: 18
+YOU LOST! BETTER LUCK NEXT TIME
+BabyYoda=0	Dealer=1
+Do you want to play again? 
+Enter (y/Y) for yes: 
+y
+
+BabyYoda :
+Q of Spades	K of Hearts	Total: 20
+If you want to continue, enter (y/Y): 
+n
+Dealer:
+5 of Diamonds	A of Hearts	J of Clubs	K of Clubs	Total: 26
+BUSTED!
+YOU ARE THE WINNER!
+BabyYoda=1	Dealer=1
+Do you want to play again? 
+Enter (y/Y) for yes: 
+n
+Thank you for playing in SEBASTIAN'S CASINO!
